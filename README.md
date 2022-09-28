@@ -1,4 +1,4 @@
-# Pair Programming: AB Testing ML Models on AWS
+# Pair Programming: A/B Testing ML Models on AWS
 
 ## Submission Instructions
 
